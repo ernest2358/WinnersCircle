@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3809809F-376D-46A8-AA0A-610760056FB2}|Default">
+  <MonoDevelop.Ide.ItemProperties.WinnersCirlce PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WinnersCirlce/Views/Winners/WinnersCircle.cshtml">
+    <Files>
+      <File FileName="WinnersCirlce/Views/Shared/_LoginPartial.cshtml" Line="21" Column="10" />
+      <File FileName="WinnersCirlce/Controllers/HomeController.cs" Line="24" Column="10" />
+      <File FileName="WinnersCirlce/Models/Users.cs" Line="8" Column="150" />
+      <File FileName="WinnersCirlce/Controllers/WinnersController.cs" Line="13" Column="99" />
+      <File FileName="WinnersCirlce/Views/Winners/EmptyHtmlFile.html" Line="1" Column="1" />
+      <File FileName="WinnersCirlce/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="WinnersCirlce/Views/Winners/WinnersCircle.cshtml" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WinnersCirlce" expanded="True">
+            <Node name="WinnersCirlce" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Winners" expanded="True">
+                  <Node name="WinnersCircle.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
